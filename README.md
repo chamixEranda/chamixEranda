@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chamixEranda
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning about web development tools
 
 <!---
 chamixEranda/chamixEranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
