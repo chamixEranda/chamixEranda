@@ -54,6 +54,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamixEranda&theme=vision-friendly-dark)](https://github.com/chamixEranda/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamixEranda&theme=vision-friendly-dark)](https://github.com/chamixEranda/github-readme-stats)
+
+---
+
+### :man_technologist: About Me :
+
+I am a Trainee Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+- :telescope: I’m working as a Laravel Developer and contributing to frontend and backend for building web applications.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamith-eranda-3a2414218/)
 <!--
 **chamixEranda/chamixEranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
