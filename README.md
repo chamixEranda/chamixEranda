@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%" />
 </div>
 
 <div id="badges" align="center">
@@ -24,7 +24,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="60%" />
 </div>
 <!--
 **chamixEranda/chamixEranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
