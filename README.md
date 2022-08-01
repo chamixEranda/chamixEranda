@@ -60,7 +60,7 @@
 ### :man_technologist: About Me :
 
 I am a Trainee Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
-- :telescope: I’m working as a Laravel Developer and contributing to frontend and backend for building web applications.
+- :desktop_computer: I’m working as a Laravel Developer and contributing to frontend and backend for building web applications.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamith-eranda-3a2414218/)
 <!--
 **chamixEranda/chamixEranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
