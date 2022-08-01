@@ -43,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" />
 </div>
 
 ---
