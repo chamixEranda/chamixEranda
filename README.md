@@ -14,6 +14,9 @@
   <a href="https://www.facebook.com/profile.php?id=100075223806221">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100075223806221">
+    <img src="https://img.shields.io/badge/Discord-violet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 <div align="center">
