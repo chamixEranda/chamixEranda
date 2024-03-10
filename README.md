@@ -71,7 +71,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chamixEranda&theme=dark&hide_border=true&border_radius=5&card_width=501&sideNums=32EB0C)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamixEranda&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamixEranda&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
