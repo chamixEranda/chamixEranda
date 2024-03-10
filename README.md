@@ -49,6 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" />
 </div> -->
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,java,cs,bootstrap,git,github,gitlab,idea,jquery,postman,spring)](https://skillicons.dev)
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
